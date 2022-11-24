@@ -1,0 +1,4 @@
+A. We can use reverse-i-search in a Linux terminal to view command history.
+B. We can use "ls -a" to view all files including the hidden files.
+C. On a scale of "1-10" I am at 7.
+D. Yes I am familiar with SMTP, FTP, TELNET, HTTP, HTTPS etc
